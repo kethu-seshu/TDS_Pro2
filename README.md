@@ -41,8 +41,8 @@ This FastAPI application uses advanced language models to provide accurate answe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/.git
-cd tdsproject2
+git clone https://github.com/kethu-seshu/TDS_pro2.git
+cd TDS_pro2
 ```
 
 2. Install dependencies:
